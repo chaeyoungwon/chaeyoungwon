@@ -13,7 +13,7 @@
     <li><b>Undergraduate Researcher</b> 
       - Artificial Intelligence Applications Lab, Hongik University <sub>(2024.07 ~ 2024.12)</sub></li>
     <li><b>Undergraduate Intern (Winter) </b> 
-      - Bioimaging and Biophotonics Laboratory, Seoul National University GSCST <sub>(2025.01 ~ )</sub></li>
+      - Bioimaging and Biophotonics Lab, Seoul National University GSCST <sub>(2025.01 ~ )</sub></li>
   </ul>
 
 
