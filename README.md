@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=9ee7ff&height=300&section=header&text=chaeyoung&fontSize=30&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=9ee7ff&height=250&section=header&text=chaeyoung&fontSize=30&animation=fadeIn"/>
 </p>
 
 ### Profile
-<li>홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub></li>
-<li>홍익대학교 UMC 5기 FE (WEB) <sub>(2023.09 ~ 2024.02)</sub></li>
-<li>홍익대학교 멋쟁이사자처럼 12기 FE (WEB) <sub>(2024.03 ~ 2024.12)</sub></li>
-<li>홍익대학교 멋쟁이사자처럼 13기 FE 운영진 <sub>(2025.03 ~ )</sub></li>
+<ul>
+  <li>홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub></li>
+  <li>홍익대학교 UMC 5기 FE (WEB) <sub>(2023.09 ~ 2024.02)</sub></li>
+  <li>홍익대학교 멋쟁이사자처럼 12기 FE <sub>(2024.03 ~ 2024.12)</sub></li>
+  <li>홍익대학교 멋쟁이사자처럼 13기 FE 운영진 <sub>(2025.03 ~ now)</sub></li>
+  <li>대학생 연합 IT 동아리 잇타 (IT's TIME) 7기 FE (WEB) <sub>(2025.03 ~ now)</sub></li>
+</ul>
 
 ### Internships
   <ul>
     <li><b>Undergraduate Researcher</b> 
       - Artificial Intelligence Applications Lab, Hongik University <sub>(2024.07 ~ 2024.12)</sub></li>
     <li><b>Undergraduate Intern (Winter) </b> 
-      - Bioimaging and Biophotonics Lab, Seoul National University GSCST <sub>(2025.01 ~ )</sub></li>
+      - Bioimaging and Biophotonics Lab, Seoul National University GSCST <sub>(2025.01 ~ 2025.02)</sub></li>
   </ul>
 
 
