@@ -8,8 +8,8 @@
   <li>홍익대학교 UMC 5기 WEB <sub>(2023.09 ~ 2024.02)</sub></li>
   <li>홍익대학교 멋쟁이사자처럼 12기 FE <sub>(2024.03 ~ 2024.12)</sub></li>
   <li>대학생 연합 IT 동아리 잇타 7기 WEB <sub>(2025.03 ~ 2025.07)</sub></li>
+  <li>신촌 연합 IT 창업동아리 CEOS 21기 FE <sub>(2025.03 ~ 2025.08)</sub></li>
   <li>홍익대학교 멋쟁이사자처럼 13기 FE 운영진 <sub>(2025.03 ~ now)</sub></li>
-  <li>신촌 연합 IT 창업동아리 CEOS 21기 FE <sub>(2025.03 ~ now)</sub></li>
 </ul>
 
 ### Internships
