@@ -40,13 +40,18 @@
 
  ### GitHub Stats
   <div className="flex items-center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chaeyoungwon&show_icons=true&theme=react" />
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaeyoungwon&utm_content=farm">
-      <img
-        src="https://render.gitanimals.org/farms/chaeyoungwon"
-        width="400"
-        height="200"
-      />
-      </a>
+   <img
+  src="https://github-readme-stats.vercel.app/api?username=chaeyoungwon&show_icons=true&theme=react"
+  width="400"
+     height="200"
+/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaeyoungwon&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/chaeyoungwon"
+    width="350"
+    height="175"
+  />
+</a>
   </div>
 </div>
