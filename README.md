@@ -16,9 +16,9 @@
 ### Internships
   <ul>
     <li><b>Undergraduate Researcher</b> 
-      - Artificial Intelligence Applications Lab, Hongik University <sub>(2024.07 ~ 2024.12)</sub></li>
+      - <a href="https://sites.google.com/view/aiahongikuniversity/home?authuser=0">Artificial Intelligence Applications Lab, Hongik University</a> <sub>(2024.07 ~ 2024.12)</sub></li>
     <li><b>Undergraduate Intern (Winter) </b> 
-      - Bioimaging and Biophotonics Lab, Seoul National University GSCST <sub>(2025.01 ~ 2025.02)</sub></li>
+      - <a href="https://klab.snu.ac.kr/">Bioimaging and Biophotonics Lab, Seoul National University GSCST</a> <sub>(2025.01 ~ 2025.02)</sub></li>
   </ul>
 
 
