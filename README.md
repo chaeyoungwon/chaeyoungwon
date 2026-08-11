@@ -38,12 +38,6 @@
   <br> -->
 
  ### GitHub Stats
-  <div className="flex items-center">
-   <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaeyoungwon"
-  width="400"
-     height="200"
-/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaeyoungwon&utm_content=farm">
   <img
